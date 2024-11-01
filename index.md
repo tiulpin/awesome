@@ -16,6 +16,8 @@ date: 2024-10-04
 - [2 · Lose Yourself to Scripting](2024-10-05-2.md)
 - [3 · Git Lucky](2024-10-05-3.md)
 - [4 · The Game of Vim](2024-10-05-4.md)
+- [5](2024-11-01-5.md)
+- [6](2024-11-01-6.md)
 
 
 > [!NOTE]
